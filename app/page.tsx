@@ -49,7 +49,7 @@ export default function Home() {
             <span className="code-var">const</span> <span className="code-name">developer</span> = <span className="code-string">&apos;Web & Mobile&apos;</span>;
           </p>
           <p className="description slide-up-delay">
-            Étudiant à l&apos;IUT de Lens, je code ce que j&apos;aime. Relier mes passions à mes projets de développement est une source constante d&apos;inspiration. Si je peux simplifier une tâche du quotidien, j&apos;adore trouver des solutions et relever des défis.
+            Étudiant en 3ᵉ année en formation initiale à l’IUT de Lens, je m’oriente vers le développement d’applications web et mobiles. J’aime concevoir des projets où créativité et informatique se rejoignent, notamment en reliant des domaines comme la musique et le numérique.
           </p>
         </div>
       </header>
@@ -86,6 +86,15 @@ export default function Home() {
             <div className="contact-info">
               <span className="contact-label">Portfolio</span>
               <a href="https://lahlousaad4.github.io/" className="contact-value" target="_blank" rel="noopener noreferrer">lahlousaad4.github.io</a>
+            </div>
+          </div>
+          <div className="contact-item hover-lift">
+            <div className="contact-icon-wrapper">
+              <div className="contact-icon">🌐</div>
+            </div>
+            <div className="contact-info">
+              <span className="contact-label">Langues</span>
+              <span className="contact-value">Français, Arabe, Anglais</span>
             </div>
           </div>
         </div>
